@@ -1,0 +1,8 @@
+labels_path:
+  - data/train_set/label_data_0313.json
+  - data/train_set/label_data_0531.json
+  - data/train_set/label_data_0601.json
+parent_data_dir:
+  /Users/yerassyl/Documents/Thesis/
+mask_dir:
+  /train_mask
